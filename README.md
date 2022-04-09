@@ -22,11 +22,11 @@
                     <br /> TensorFlow
                 </td>
               <td align="center" width="140" height="112.43">
-                    <img src="./assets/icons/qgis.jpg" width="65px"/>
+                    <img src="./assets/icons/qgis.jpg" width="70px"/>
                     <br /> QGIS
                 </td>
               <td align="center" width="140" height="112.43">
-                    <img src="./assets/icons/arcgispro.jpg" width="65px"/>
+                    <img src="./assets/icons/arcgis pro.jpg" width="65px"/>
                     <br /> ArcGIS Pro
                 </td>
               <td align="center" width="140" height="112.43">
