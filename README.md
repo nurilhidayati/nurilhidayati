@@ -47,7 +47,7 @@
                 </td>
               <td align="center" width="140" height="112.43">
                     <img src="./assets/icons/gee.png" width="65px"/>
-                    <br /> Google Earth Engine
+                    <br /> GEE
                 </td>
              </td>
             </tr>
