@@ -28,12 +28,6 @@
     </div>
     <br>
 
----
 
-### Important Repository
-
-💾 365 Days of Computer Vision - [🔗](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post)
-
----
 
 ***Thanks for visit my profile.***
