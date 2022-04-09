@@ -1,7 +1,7 @@
 - ### Hi 👋 I'm Nuril
   
 
-  * 🔭 I'm currently studying **Geography Information System** at [Universitas Gadjah Mada 🦢](https://ugm.ac.id/)
+  * 🔭 I'm currently studying **Geography Information System** at [Universitas Gadjah Mada](https://ugm.ac.id/)
 
   - 🌱 I’m currently learning about Machine Learning.
   
