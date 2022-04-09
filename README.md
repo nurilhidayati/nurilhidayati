@@ -1,18 +1,12 @@
-- ### Hi there, I'm Ashish Patel👋
+- ### Hi 👋 I'm Nuril
   
 
-  * 🔭 I am Currently working as **Sr.Data Scientist** at [Cygnet 🦢](https://cygnet-infotech.com/)
+  * 🔭 I'm Currently studying **Geography Information System** at [Universitas Gadjah Mada 🦢](https://ugm.ac.id/)
 
-  - 🌱 I’m currently Learning Quantum Machine learning😎.
+  - 🌱 I’m currently learning about Machine Learning.
   
-  - 👯 I’m collaborator in keras, tensorflow and looking for more collaboration.
-  
-  - 🥅 2021 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
+  - 📫 How to reach me: nurilhidayati@mail.ugm.ac.id
 
-  - ⚡ Fun fact: I love to code.
-  
-   
-    
     ## ⚡  Technologies I use 
     
     <br>
@@ -55,12 +49,3 @@
     </div>
     <br>
 
----
-
-### Important Repository
-
-💾 365 Days of Computer Vision - [🔗](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post)
-
----
-
-***Thanks for visit my profile.***
