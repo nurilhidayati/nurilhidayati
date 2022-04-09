@@ -1,10 +1,8 @@
 - ### Hi there, I'm Nuril Hidayati👋
  
   ## I'm a Geography Information System student at Universitas Gadjah Mada [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuril-hidayati/)
-    
-  ---
-    
-   
+  
+ 
     
     ## ⚡  Technologies I use 
     
@@ -24,18 +22,6 @@
                 <td align="center" width="140" height="112.43">
                     <img src="./assets/icons/tensorflow.png" width="65px"/>
                     <br /> TensorFlow
-                </td>
-                <td align="center" width="140" height="112.43">
-                    <img src="./assets/icons/scikitlearn.png" width="65px"/>
-                    <br /> Scikit Learn
-                </td>
-                <td align="center" width="140" height="112.43">
-                    <img src="./assets/icons/fastapi.png" width="65px"/>
-                    <br /> FastAPI
-                </td>
-                <td align="center" width="140" height="112.43">
-                    <img src="./assets/icons/docker.png" width="65px"/>
-                    <br /> Docker
                 </td>
             </tr>
         </table>
