@@ -1,5 +1,6 @@
-- ### Hi there, I'm Nuril Hidayati👋 
+- ### Hi there, I'm Nuril 👋 
 - Currently studying Geography Information System at Universitas Gadjah Mada. My main interest in Geography especially related to smart cities, and urban issues. I am well-versed with data processing, spatial analysis, and familiar with spatial software such as ArcGIS Pro, QGIS and Google Earth Engine. Furthermore, I also have a deep interest in machine learning and pursue this passion by joining Bangkit Academy 2022 program. I also have strong command in various programming language such as Python and Javascript.
+- seedling I’m currently learning about cloud technology for back-end apps
  
   
     ## ⚡  Technologies I use 
