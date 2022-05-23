@@ -7,7 +7,4 @@
   
   - 📫 How to reach me: nurilhidayati@mail.ugm.ac.id
 
-    ## ⚡  Technologies I use 
-
-    <br>
 
