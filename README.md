@@ -22,7 +22,6 @@ I'm a Geography Information Student at Universitas Gadjah Mada.
 
 </details>
 
-<br />
 
 <details>
   <summary>:zap: Most Used Languages</summary>
