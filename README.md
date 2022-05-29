@@ -4,7 +4,6 @@ I'm a Geography Information Student at Universitas Gadjah Mada.
 
 - 👀 I’m interested in machine learning and enjoy exploring everything about data
 - ⚡ I'm pursue my passion by joining Bangkit Academy 2022 program specializing in Machine Learning.
-- <img align="top" src="https://s3.us-east-1.amazonaws.com/accredible-api-templates/15784284048332915386973343827272.png" height="25px"/><a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/36492625" target="_blank"> TensorFlow Developer Certified</a>
 - 🔭 I'm currently learning more about Data Science and Deep Learning
 
 ## 🔍 You Can Find Me at
@@ -23,6 +22,7 @@ I'm a Geography Information Student at Universitas Gadjah Mada.
 
 </details>
 
+<br />
 
 <details>
   <summary>:zap: Most Used Languages</summary>
