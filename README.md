@@ -4,7 +4,7 @@ I'm a Geography Information Student at Universitas Gadjah Mada.
 
 - 👀 I’m interested in machine learning and enjoy exploring everything about data
 - ⚡ I'm pursue my passion by joining Bangkit Academy 2022 program specializing in Machine Learning.
-- 🔭 I'm currently learning more about Data Science and Deep Learning
+- 🔭 I’m looking to collaborate on Team
 
 ## 🔍 You Can Find Me at
 <p>
