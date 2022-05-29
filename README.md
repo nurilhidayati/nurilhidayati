@@ -13,7 +13,6 @@ I'm a Geography Information Student at Universitas Gadjah Mada.
 </p>
 
 <br />
-<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
