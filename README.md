@@ -1,6 +1,6 @@
 #  Hi there, I'm Nuril <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-I'm currently studying Geography Information System at Universitas Gadjah Mada. Please welcome to this humble site of mine
+I'm currently studying Geography Information System at Universitas Gadjah Mada. 
 
 - 👀 I’m interested in machine learning and enjoy exploring everything about data
 - ⚡ I'm pursue my passion by joining [Bangkit Academy 2022 Program](https://grow.google/intl/id_id/bangkit/) specializing in Machine Learning.
