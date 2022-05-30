@@ -3,7 +3,7 @@
 I'm currently studying Geography Information System at Universitas Gadjah Mada. Please welcome to this humble site of mine
 
 - 👀 I’m interested in machine learning and enjoy exploring everything about data
-- ⚡ I'm pursue my passion by joining Bangkit Academy 2022 program specializing in Machine Learning.
+- ⚡ I'm pursue my passion by joining [Bangkit Academy 2022 Program](https://grow.google/intl/id_id/bangkit/) specializing in Machine Learning.
 - 🔭 I’m looking to collaborate with anyone interested to learn and explore together
 
 ## 🔍 You can find me at
@@ -13,7 +13,7 @@ I'm currently studying Geography Information System at Universitas Gadjah Mada. 
 </p>
 
 ## Github Statistic
-[![Nuril's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurilhidayati&count-private=true&theme=tokyonight&line_height=20)](https://github.com/nurilhidayati/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurilhidayati&layout=compact&count-private=true&theme=tokyonight&exclude_repo=Tubes-IF2220,Tubes-Logkom-2020)](https://github.com/nurilhidayati/github-readme-stats)
+[![Nuril's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurilhidayati&count-private=true&theme=tokyonight&line_height=20)](https://github.com/nurilhidayati/github-readme-stats)
 
 
