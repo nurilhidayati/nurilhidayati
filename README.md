@@ -1,5 +1,4 @@
 #  Hi there, I'm Nuril <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
-![](https://visitor-badge.laobi.icu/badge?page_id=nurilhidayati.nurilhidayati)
 
 I'm currently studying Geography Information System at Universitas Gadjah Mada. Please welcome to this humble site of mine
 
