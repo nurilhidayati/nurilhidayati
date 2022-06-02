@@ -1,4 +1,4 @@
-#  Hi there, I'm Nuril <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+#  Hi there, I'm Nuril 👋 
 
 I'm currently studying Geography Information System at Universitas Gadjah Mada. 
 
@@ -15,3 +15,5 @@ I'm currently studying Geography Information System at Universitas Gadjah Mada.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nuril-hidayati/)](https://www.linkedin.com/in/nuril-hidayati/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/nurilhidayati29/)](https://instagram.com/nurilhidayati29)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nurilhidayati@mail.ugm.ac.id)](mailto:nurilhidayati@mail.ugm.ac.id)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=nurilhidayati.nurilhidayati)
