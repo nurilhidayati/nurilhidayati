@@ -2,7 +2,7 @@
 # Hi There! 👋
 
 ##  About Me
-🎓 I am Nuril Hidayati, a final year student at Universitas Gadjah Mada. I have an interest in spatial data processing and spatial web programming.
+🎓 I am Nuril Hidayati, a Geography Information System student at Universitas Gadjah Mada specializing in spatial data processing and spatial web programming.
 
 📚 I’m interested in machine learning and enjoy exploring everything about data. I'm pursue my passion by joining [Bangkit Academy 2022 Program](https://grow.google/intl/id_id/bangkit/) specializing in Machine Learning
 
