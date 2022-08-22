@@ -4,7 +4,7 @@
 ##  About Me
 🎓 I am Nuril Hidayati, a Geography Information System student at Universitas Gadjah Mada specializing in spatial data processing and spatial web programming.
 
-📚 I'm Graduated from Bangkit 2021 Program specializing in Machine Learning.
+📚 I'm Graduated from Bangkit 2022 Program specializing in Machine Learning.
 
 💪 I love learning new things and combining them with my other skill to build a project. I am now looking to apply my skills and knowledge to a bigger project and industry.
 
