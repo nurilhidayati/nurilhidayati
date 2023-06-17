@@ -8,6 +8,8 @@
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurilhidayati&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nurilhidayati&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
 <hr>
 
 Let's Connect!
