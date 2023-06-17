@@ -6,6 +6,7 @@
 
 💪 I love learning new things and combining them with my other skill to build a project. I am now looking to apply my skills and knowledge to a bigger project and industry.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurilhidayati29&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="ovi" /></p>
 
 Let's Connect!
 <p>
